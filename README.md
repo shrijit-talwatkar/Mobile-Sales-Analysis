@@ -55,7 +55,7 @@ The dataset contains mobile sales transaction data including:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](images/dashboard-preview.jpg)
+![Dashboard Preview](dashboard.png)
 
 ## 🚀 Business Impact
 
